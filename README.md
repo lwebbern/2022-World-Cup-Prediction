@@ -7,7 +7,7 @@
 thus, i built the following bracket, and at each staged marked the winner and loser.
 ![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/99ccb73b-315e-4029-bd46-739c8b9f2034)
 
-My model correctly predicted France as the winner, and predicted Netherlands as the winner of the world cup, the team who it also predicted to beat Argentina (the actual winners)
+My model correctly predicted France as the semi-finalist, and predicted Netherlands as the winner of the world cup, the team who it also predicted to beat Argentina (the actual winners)
 
 ## Actual Outcome
 
