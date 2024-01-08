@@ -23,7 +23,7 @@ And the following was the actual bracket, with Argentina as the winners:
 
 ## Results
 Overall, my model had some predictive power.
-It predicted 10/16 teams correctly to qualify to the play-offs
+### In the round of 16s, it had 10/16 teams correct. In the quarter finals, it had 6/8 teams correct
 
 
 I aim to revisit this next year
