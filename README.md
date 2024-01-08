@@ -25,6 +25,9 @@ And the following was the actual bracket, with Argentina as the winners:
 Overall, my model had some predictive power.
 ### In the round of 16s, it had 10/16 teams correct. In the quarter finals, it had 6/8 teams correct. In the semi finals, it had 1/4 correct. In the finals, it had 1/2 correct
 
+Considering there is lots of random chance involved, and lots of variables that cannot be tracked for on the day of the match, e.g (team spirit, individual team members feelings, etc), i would call this model a success.\\
+The reason it predicted Netherlands as the winner was due to old data in the data sets i had, where Netherlands had been in a dominating era.\\
+In the future, i would've not used such old data, and would also have included randomness in each match, so as to be able to simulate the world cup thousands of times and choose the winner as the team that won most on average \\
 
-I aim to revisit this next year
+I aim to revisit this project in the future world cup, and re-attempt the challenge.
 
