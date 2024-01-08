@@ -12,7 +12,8 @@ My model correctly predicted France as the semi-finalist, and predicted Netherla
 ## Actual Outcome
 
 Here was the actual group stage outcome:
-![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/082370ac-701d-4a23-8279-d4483ff878e9)
+![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/95753b0f-09ab-4eae-a3d6-8c16bdbe1eec)
+
 
 
 And the following was the actual bracket, with Argentina as the winners:
