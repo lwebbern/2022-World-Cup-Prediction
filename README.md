@@ -1,6 +1,6 @@
 # 2022-World-Cup-Prediction
 
- ##Predictions
+ ## Predictions
  my model predicted the following for the group stage results (highlighted in green means they will follow into the play-offs):
  ![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/baae5bca-ef93-463a-b194-2e410b4037e4)
 
