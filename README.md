@@ -29,7 +29,7 @@ Considering there is lots of random chance involved, and lots of variables that 
 \
 The reason it predicted Netherlands as the winner was due to old data in the data sets i had, where Netherlands had been in a dominating era.\
 \
-In the future, i would've not used such old data, and would also have included randomness in each match, so as to be able to simulate the world cup thousands of times and choose the winner as the team that won most on average \
+In the future, i would not have used such old data, and would also have included randomness in each match, so as to be able to simulate the world cup thousands of times and choose the winner as the team that won most on average 
 
 I aim to revisit this project in the future world cup, and re-attempt the challenge.
 
