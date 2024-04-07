@@ -4,12 +4,13 @@
  my model predicted the following for the group stage results (highlighted in green means they will follow into the play-offs):
  ![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/baae5bca-ef93-463a-b194-2e410b4037e4)
 
-thus, using the seeding rules, i built the following bracket, and at each staged marked the winner and loser.
-![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/99ccb73b-315e-4029-bd46-739c8b9f2034)
+thus, using the seeding rules, i built the following bracket, and at each staged marked the predicted winner and loser. (Bracket made with challonge.com)
+![bracket](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/bd5a0393-c674-4ffd-a706-b6b0573a0078)
 
 My model correctly predicted France as the second place, and predicted Netherlands as the winner of the world cup, the team who it also predicted to beat Argentina (the actual winners)
 
 ## Actual Outcome
+
 
 Here was the actual group stage outcome:
 ![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/95753b0f-09ab-4eae-a3d6-8c16bdbe1eec)
@@ -32,4 +33,5 @@ The reason it predicted Netherlands as the winner was due to old data in the dat
 In the future, i would not have used such old data, and would also have included randomness in each match, so as to be able to simulate the world cup thousands of times and choose the winner as the team that won most on average.
 
 I aim to revisit this project in the future world cup, and re-attempt the challenge.
+
 
