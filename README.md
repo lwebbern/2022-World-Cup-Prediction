@@ -2,7 +2,8 @@
 
  ## Predictions
  my model predicted the following for the group stage results (highlighted in green means they will follow into the play-offs):
- ![image](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/baae5bca-ef93-463a-b194-2e410b4037e4)
+![Group stage](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/6607f0c6-c0f2-4c7f-baf0-8ba9608d9a6a)
+
 
 thus, using the seeding rules, i built the following bracket, and at each staged marked the predicted winner and loser. (Bracket made with challonge.com)
 ![bracket](https://github.com/lwebbern/2022-World-Cup-Prediction/assets/107919998/bd5a0393-c674-4ffd-a706-b6b0573a0078)
